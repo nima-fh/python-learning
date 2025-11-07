@@ -1,0 +1,13 @@
+{
+  "data": {
+    "name": "Nima",
+    "family": "Fakhimi",
+    "age": 20,
+    "nomre": { "riazi": 15, "fizik": 18, "zist": 20 }
+  },
+  "data2": {
+    "a": 1,
+    "b": 2,
+    "c": 3
+  }
+}
